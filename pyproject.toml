@@ -33,9 +33,9 @@ dependencies = [
 
 [project.urls]
 # TODO: заменить на адрес вашего репозитория перед публикацией.
-Homepage = "https://github.com/your-name/openweather-client-py"
-Repository = "https://github.com/your-name/openweather-client-py"
-Documentation = "https://github.com/your-name/openweather-client-py#readme"
+Homepage = "https://github.com/lin522741/openweather-client-py"
+Repository = "https://github.com/lin522741/openweather-client-py"
+Documentation = "https://github.com/lin522741/openweather-client-py#readme"
 
 [project.scripts]
 openweather = "openweather.cli:main"

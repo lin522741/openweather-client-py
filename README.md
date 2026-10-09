@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/openweather-client-py.svg)](https://pypi.org/project/openweather-client-py/)
 [![PyPI version](https://img.shields.io/pypi/v/openweather-client-py.svg)](https://pypi.org/project/openweather-client-py/)
 [![License](https://img.shields.io/pypi/l/openweather-client-py.svg)](LICENSE)
-[![CI](https://github.com/your-name/openweather-client-py/actions/workflows/ci.yml/badge.svg)](https://github.com/your-name/openweather-client-py/actions)
+[![CI](https://github.com/lin522741/openweather-client-py/actions/workflows/ci.yml/badge.svg)](https://github.com/lin522741/openweather-client-py/actions)
 
 Аккуратный и типизированный Python-клиент для [OpenWeather API](https://openweathermap.org/api).
 Позволяет получать текущую погоду и прогноз по названию города или координатам,
